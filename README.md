@@ -32,4 +32,14 @@ https://ubuntu.com/
 
 -------
 
+## Paper
+
+## Python 3: Python 3 – Basic Tutorial
+https://www.tutorialspoint.com/python3/python_tutorial.pdf
+
+
+-------
+
+
+
 
