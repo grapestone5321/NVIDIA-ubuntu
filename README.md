@@ -64,6 +64,7 @@ https://edu.heibai.org/Expert_Python_Programming.pdf
 
 
 
+
 -------
 
 ## Set up your Python beginner development environment with Visual Studio Code
@@ -74,7 +75,15 @@ https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/
 ### Visual Studio Code: Introductory Videos
 https://code.visualstudio.com/docs/getstarted/introvideos
 
+### package architecture (amd64) does not match system (arm64)
 
+      nvidia@tegra-ubuntu:~/Downloads$ sudo dpkg -i code_1.55.2-1618307277_amd64.deb
+      [sudo] password for nvidia: 
+      dpkg: error processing archive code_1.55.2-1618307277_amd64.deb (--install):
+       package architecture (amd64) does not match system (arm64)
+      Errors were encountered while processing:
+       code_1.55.2-1618307277_amd64.deb
+       
 
 -------
 
