@@ -132,7 +132,8 @@ Learn more from the developers at thoughtbot ⌨️
 ### Head over to http://tbot.io/dev-blog​ to read more great articles on our blog.
 https://thoughtbot.com/blog?utm_source=youtube&utm_medium=cta
 
-
+## Vim in 100 Seconds
+https://www.youtube.com/watch?v=-txKSRn0qeA
 
 ## Vim Cheat Sheet
 https://vim.rtorr.com/
