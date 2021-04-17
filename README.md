@@ -58,6 +58,12 @@ https://edu.heibai.org/Expert_Python_Programming.pdf
 
 -------
 
+## nvidia@tegra-ubuntu
+
+      nvidia@tegra-ubuntu:~/Desktop$ python Hello.py
+      Hello World
 
 
+
+-------
 
