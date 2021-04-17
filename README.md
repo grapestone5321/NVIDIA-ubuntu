@@ -20,17 +20,7 @@ https://ubuntu.com/
 -------
 
 
-### NVIDIA Jetson TX2
 
-
-      nvidia@tegra-ubuntu:~$ python3
-      Python 3.5.2 (default, Jan 26 2021, 13:30:48) 
-      [GCC 5.4.0 20160609] on linux
-      Type "help", "copyright", "credits" or "license" for more information.
-
-
-
--------
 
 ## Paper
 
@@ -55,8 +45,17 @@ http://ce.sharif.edu/courses/96-97/2/ce153-6/resources/root/Learn-to-Program-wit
 ## Expert_Python_Programming.pdf
 https://edu.heibai.org/Expert_Python_Programming.pdf
 
-
 -------
+
+## NVIDIA Jetson TX2
+
+
+      nvidia@tegra-ubuntu:~$ python3
+      Python 3.5.2 (default, Jan 26 2021, 13:30:48) 
+      [GCC 5.4.0 20160609] on linux
+      Type "help", "copyright", "credits" or "license" for more information.
+
+
 
 ## nvidia@tegra-ubuntu
 
