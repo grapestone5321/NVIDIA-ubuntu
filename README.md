@@ -114,5 +114,23 @@ Following are the commands that have been discussed in the video:
 
 -------
 
+## Mastering the Vim Language
+https://www.youtube.com/watch?v=wlR5gYd6um0
 
+Chris Toomey talks about mastering the Vim language. 
+
+Vim's core is the amazing command mappings and text objects that allow for countless combinations to define precise edits. 
+
+Learn how to master the built-in commands, motions, and text objects, and even how to extend the Vim language for even more power!
+
+### Slides: 
+https://ctoomey.com/mastering-the-vim-language-slides.pdf
+
+
+Learn more from the developers at thoughtbot ⌨️ 
+
+### Head over to http://tbot.io/dev-blog​ to read more great articles on our blog.
+https://thoughtbot.com/blog?utm_source=youtube&utm_medium=cta
+
+-------
 
