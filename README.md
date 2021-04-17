@@ -66,3 +66,11 @@ https://edu.heibai.org/Expert_Python_Programming.pdf
 
 -------
 
+## Set up your Python beginner development environment with Visual Studio Code
+https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/
+
+
+
+
+-------
+
