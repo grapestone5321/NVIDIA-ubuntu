@@ -132,5 +132,10 @@ Learn more from the developers at thoughtbot ⌨️
 ### Head over to http://tbot.io/dev-blog​ to read more great articles on our blog.
 https://thoughtbot.com/blog?utm_source=youtube&utm_medium=cta
 
+
+
+## Vim Cheat Sheet
+https://vim.rtorr.com/
+
 -------
 
