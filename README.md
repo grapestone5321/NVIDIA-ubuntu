@@ -71,6 +71,10 @@ https://docs.microsoft.com/en-us/learn/modules/python-install-vscode/
 
 
 
+### Visual Studio Code: Introductory Videos
+https://code.visualstudio.com/docs/getstarted/introvideos
+
+
 
 -------
 
