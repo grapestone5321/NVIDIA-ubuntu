@@ -87,3 +87,32 @@ https://code.visualstudio.com/docs/getstarted/introvideos
 
 -------
 
+## Useful Vim Commands
+https://www.youtube.com/watch?v=yfxRHSSGgSg&t=11s
+
+In this video, We will learn about some useful commands in Vim.
+
+Following are the commands that have been discussed in the video:
+
+      :q       (used for quitting out of vim editor)
+      :w       (used for writing out the current state in vim editor)
+      :wq      (save and quit vim editor)
+      :q!      (save without making changes in vim editor)
+      Esc      (go back to Command Mode)
+      i        (go to Edit Mode)
+      u        (Undo)
+      Ctrl+r   (Redo)
+      x        (delete a character)
+      dd       (delete a line)
+      7dd      (delete 7 lines)
+      dw       (delete a word)
+      yy       (copy the line)
+      p        (paste the line)
+      e        (move to next word)
+      r        (replace a letter)
+
+
+-------
+
+
+
