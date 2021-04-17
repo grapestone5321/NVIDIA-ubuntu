@@ -138,5 +138,15 @@ https://www.youtube.com/watch?v=-txKSRn0qeA
 ## Vim Cheat Sheet
 https://vim.rtorr.com/
 
+      nvidia@tegra-ubuntu:~/Desktop$ sudo apt-get install vim
+      Reading package lists... Done
+      Building dependency tree       
+      Reading state information... Done
+      vim is already the newest version (2:7.4.1689-3ubuntu1.5).
+      The following packages were automatically installed and are no longer required:
+        linux-headers-4.4.0-208 linux-headers-4.4.0-208-generic
+      Use 'sudo apt autoremove' to remove them.
+      0 upgraded, 0 newly installed, 0 to remove and 387 not upgraded.
+
 -------
 
