@@ -158,3 +158,9 @@ https://qiita.com/kashi1mochi/items/baf35c0e118754bd424f
 
 -------
 
+## etsonTX2 - Installation OS(Ubuntu 18.04 LTS) and SDK
+https://spyjetson.blogspot.com/2019/11/jetsontx2-installation-osubuntu-1804.html
+
+
+
+-------
