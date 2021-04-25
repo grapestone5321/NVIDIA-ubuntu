@@ -151,3 +151,10 @@ https://vim.rtorr.com/
 
 -------
 
+
+## GeForce RTX 2060
+https://qiita.com/kashi1mochi/items/baf35c0e118754bd424f
+
+
+-------
+
