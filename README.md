@@ -161,6 +161,12 @@ https://qiita.com/kashi1mochi/items/baf35c0e118754bd424f
 ## etsonTX2 - Installation OS(Ubuntu 18.04 LTS) and SDK
 https://spyjetson.blogspot.com/2019/11/jetsontx2-installation-osubuntu-1804.html
 
+-------
+
+## NVIDIA Jetson Linux Developer Guide: 32.5 Release
+https://docs.nvidia.com/jetson/l4t/index.html#page/Tegra%20Linux%20Driver%20Package%20Development%20Guide/introduction.html#
+
+
 
 
 -------
