@@ -168,5 +168,12 @@ https://docs.nvidia.com/jetson/l4t/index.html#page/Tegra%20Linux%20Driver%20Pack
 
 
 
+-------
+
+
+## How to install Ubuntu on Windows using VirtualBox
+https://www.youtube.com/watch?v=vq0sfZ33J-U
+
+
 
 -------
