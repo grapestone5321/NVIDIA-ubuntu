@@ -1,6 +1,11 @@
 # NVIDIA-ubuntu
 NVIDIA-ubuntu
 
+-------
+
+## gpu setup
+
+### NVIDIA Drivers
 
 
 -------
